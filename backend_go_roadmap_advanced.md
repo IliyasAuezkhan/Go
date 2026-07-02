@@ -20,10 +20,10 @@
 ### День 1 — Чистая архитектура
 > 📘 теория
 
-- Слоистая архитектура: `handler → service → repository`
-- Dependency Injection без магии (руками, через интерфейсы)
-- Разделение на пакеты: `internal/`, `pkg/`, `cmd/`
-- Domain-driven подход: сущности, DTO, мапперы
+- Слоистая архитектура: `handler → service → repository` 
+- Dependency Injection без магии (руками, через интерфейсы) 
+- Разделение на пакеты: `internal/`, `pkg/`, `cmd/` 
+- Domain-driven подход: сущности, DTO, мапперы 
 
 ---
 
