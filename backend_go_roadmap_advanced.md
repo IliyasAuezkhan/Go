@@ -30,10 +30,10 @@
 ### День 2 — Конфигурация и структурные логи
 > 🛠 практика
 
-- `viper` или `envconfig` для конфигов (env / yaml)
-- `slog` по-серьёзному: structured logging, контекст, уровни
-- Паттерн graceful shutdown (`context.Context` + `signal.NotifyContext`)
-- `errors.Is`/`errors.As`, обёртывание ошибок (`fmt.Errorf("%w")`)
+- `viper` или `envconfig` для конфигов (env / yaml) DONE
+- `slog` по-серьёзному: structured logging, контекст, уровни DONE
+- Паттерн graceful shutdown (`context.Context` + `signal.NotifyContext`) DONE
+- `errors.Is`/`errors.As`, обёртывание ошибок (`fmt.Errorf("%w")`) DONE
 
 ---
 
